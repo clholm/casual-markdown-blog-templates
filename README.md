@@ -1,4 +1,4 @@
-# casual-markdown-blog-templates
+# markdown-blog-templates
 A fork of https://github.com/casualwriter/casual-markdown-blog/ for building a blog site with markdown files and a single index.html.
 
 I've split the original repository into two different repositories:
