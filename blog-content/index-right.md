@@ -26,8 +26,8 @@ h1 { border-bottom:1px dotted grey }
 <div id="md-post">
 # Featured
 
-## [Markdown as blog](20220820-markdown-as-blog.md)
-> ![build blog site by markdown files](campo01.jpg)
+## [Markdown as blog](../blog-content/20220820-markdown-as-blog.md)
+> ![build blog site by markdown files](../blog-content/campo01.jpg)
 > date:2022/08/20, tags: `#markdown, #blog`
 > 
 > build blog site by markdown files in minutes.
@@ -37,16 +37,9 @@ h1 { border-bottom:1px dotted grey }
    
 ### Aug 2022
                     
-* 2022/08/20: [Markdown as blog](20220820-markdown-as-blog.md) { #markdown, #blog, #featured }
-* 2022/08/10: [Is RegExp readable?](20220810-is-regexp-readable.md) { #regexp }
+* 2022/08/20: [Markdown as blog](../blog-content/20220820-markdown-as-blog.md) { #markdown, #blog, #featured }
 
 ### July 2022
                     
-* 2022/07/31: [release of casual-markdown v0.90](20220731-casual-markdown-v0.90.md) { #markdown, #regexp }
-
-### Oct 2021
-
-* 2021/10/28: [Portable lightweight web crawler](20211028-powerpage-web-crawler.md) { #powerpage }
-* 2021/10/05: [Develop html application by PowerPage](20211005-powerpage-0.60.md) { #powerpage }
-
+* 2022/07/31: [release of casual-markdown v0.90](../blog-content/20220731-casual-markdown-v0.90.md) { #markdown, #regexp }
 </div>

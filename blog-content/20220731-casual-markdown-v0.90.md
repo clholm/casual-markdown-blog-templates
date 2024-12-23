@@ -31,5 +31,5 @@ This minor revision provides more possibility to make use of markdown document.
 * Markdown-as-Resume: https://github.com/casualwriter/casual-markdown-cv
 
 
-![](campo02.jpg)
+![](../blog-content/campo02.jpg)
 

@@ -1,14 +1,15 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/casualwriter/casual-markdown-blog
-title      : Sample Blog (Dark Theme)
+title      : Casual-Markdown's Blog 
 subtitle   : Simple is the best
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
-theme      : dark
+css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
 menu       : 
    Home    : ?
    github  : https://github.com/casualwriter/casual-markdown-blog
-   About   : ?page=about.md
+   Dark    : javascript:darkmode()
+   About   : ?page=../blog-content/about.md
 -----------------------------------------------------------------------------
 <style comment="additional style">
 #header { {{css-header}}  }
@@ -16,12 +17,11 @@ menu       :
 #right-panel { left: calc({{nav-width}} + 20px) }
 h1 { border-bottom:1px dotted grey }
 .nav-post a  { color: teal }
-.nav-tag  a  { color: green }
+.nav-tag  a  { color: #06c }
 .nav-month a { color: grey }
-.post-date   { font-size:10px; color:#aaa }
-.post-title  { font-size:16px; }
-.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:green }
-#md-post a { border-bottom:1px dotted grey }
+.post-date   { font-size:12px; font-weight:400; }
+.post-title  { font-size:16px; color:#333 }
+.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:green; font-weight:400 }
 </style>
 
 <div id="md-post">

@@ -1,6 +1,6 @@
 ## Markdown as Blog
 
-![](campo01.jpg)
+![](../blog-content/campo01.jpg)
 
 Quite happy to use markdown to draft document or blog post, but publish to web is 
 a little trouble which need to 
