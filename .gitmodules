@@ -1,0 +1,3 @@
+[submodule "markdown-blog"]
+	path = markdown-blog
+	url = https://github.com/clholm/markdown-blog
