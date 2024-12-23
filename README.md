@@ -2,5 +2,5 @@
 A fork of https://github.com/casualwriter/casual-markdown-blog/ for building a blog site with markdown files and a single index.html.
 
 I've split the original repository into two different repositories:
-  * one for the example markdown.
-  * one with the JavaScript, CSS, and `index.html` files that provide the markdown blog functionality. I intend to import this repository as a submodule when I need it.
+  * one for the example markdown. (this one)
+  * one with the JavaScript, CSS, and `index.html` files that provide the markdown blog functionality. I intend to import this repository as a submodule when I need it. 
